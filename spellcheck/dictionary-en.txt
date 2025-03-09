@@ -2786,8 +2786,4 @@ yours
 yourself
 youth
 zone
-zebra
-z4shortening
-z4accounts
-z4themes
-z4domains
+zebr
