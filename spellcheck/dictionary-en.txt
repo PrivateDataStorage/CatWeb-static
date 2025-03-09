@@ -2691,6 +2691,7 @@ weak
 wealth
 wealthy
 weapon
+wiki
 wear
 weather
 wedding
